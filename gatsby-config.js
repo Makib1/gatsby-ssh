@@ -13,7 +13,7 @@ module.exports = {
     description: `Come and enjoy an experience of a lifetime! Watch whales with us!`,
     author: `@digitalocean`,
     keywords: `whales, marine life, trip, recreation`,
-    image: `https://digital-ocean-gatsby-seo-xkmfq.ondigitalocean.app/static/a32c1873f46145a07e332efcb798d935/630fb/whale-watching.png`
+    image: `https://webbk.lumiq.ai/uploads/home_page_b2da4a595c.png`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
